@@ -1,0 +1,11 @@
+{
+  "title":"restore point",
+  "type":"js",
+  "files":[
+    "index.js",
+    "createpoint.js"
+  ],
+  "main":"index.js",
+  "version":[1,0,0],
+  "description":"Make restore points for win93!"
+}
